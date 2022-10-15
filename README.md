@@ -8,4 +8,4 @@ Add your opinions on fleet ide.
 
 ✅
 
-❌
+❌ Taking too long to install almost 2 Hours now and not finished
